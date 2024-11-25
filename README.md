@@ -8,9 +8,10 @@ citas de atención en la veterinaria.
 ● operaciones.js: En este archivo se deberán crear 2 funciones para:
 
 ○ Registrar: Agregar una nueva cita de una atención veterinaria que debe incluir:
+
 ■ Nombre del animal
-■ Edad
-■ Tipo de animal
+■ Edad 
+■ Tipo de animal 
 ■ Color del animal
 ■ Enfermedad
 
