@@ -3,7 +3,7 @@ Descripcion:
 Necesitarás crear 3 archivos:
 - index.js: Archivo principal que deberá ser ejecutado para interactuar con la aplicación. En este archivo se deberán importar las operaciones que creen y lean las citas de atención en la veterinaria.
 
-● operaciones.js: En este archivo se deberán crear 2 funciones para:
+- operaciones.js: En este archivo se deberán crear 2 funciones para:
 
 ○ Registrar: Agregar una nueva cita de una atención veterinaria que debe incluir:
 
