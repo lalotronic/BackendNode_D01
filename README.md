@@ -1,9 +1,7 @@
 # BackendNode_D01
 Descripcion:
 Necesitarás crear 3 archivos:
-● index.js: Archivo principal que deberá ser ejecutado para interactuar con la
-aplicación. En este archivo se deberán importar las operaciones que creen y lean las
-citas de atención en la veterinaria.
+- index.js: Archivo principal que deberá ser ejecutado para interactuar con la aplicación. En este archivo se deberán importar las operaciones que creen y lean las citas de atención en la veterinaria.
 
 ● operaciones.js: En este archivo se deberán crear 2 funciones para:
 
