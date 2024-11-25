@@ -9,11 +9,11 @@ citas de atención en la veterinaria.
 
 ○ Registrar: Agregar una nueva cita de una atención veterinaria que debe incluir:
 
-■ Nombre del animal
-■ Edad 
-■ Tipo de animal 
-■ Color del animal
-■ Enfermedad
+- Nombre del animal
+- Edad 
+- Tipo de animal 
+- Color del animal
+- Enfermedad
 
 ○ Leer: Mostrar por consola todas las citas registradas.
 
